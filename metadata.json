@@ -1,0 +1,8 @@
+{
+  "name": "OmniChat - ChatGPT & NVIDIA NIM AI Platform",
+  "description": "A ChatGPT-like web platform powered by NVIDIA NIM AI, Google Gemini, and custom LLM models with real-time streaming, chat history, code highlighting, and prompt presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
